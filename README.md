@@ -1,4 +1,3 @@
-Documentation updated.
 # Yeda Labs – Video Player Assignment
 
 A custom-built HLS video player with chapter support, timeline interaction, and quality switching.
